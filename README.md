@@ -1,17 +1,18 @@
 # Hello, I'm Fel
 <a href="https://linkedin.com/in/felbayer-infosec"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m a senior at WGU pursuing a B.S. in Cybersecurity and Information Assurance, passionate about continuous learning and protecting my community’s digital assets.
+I am a senior at WGU pursuing a B.S. in Cybersecurity and Information Assurance. I’m also the VP of Professional Development at my university’s WiCyS chapter. I am passionate about continuous learning, problem solving, and building a safer cyber landscape. 
 
 ## Objective
 
-I am seeking a cybersecurity internship where I can apply my education, expand my technical skills, and contribute to protecting digital assets.
+I am seeking a cybersecurity internship to apply my education, enhance my technical skills, and contribute to safeguarding digital assets, with an interest in working in a dedicated SOC or financial institution.
 
 ## Tools I've Used
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-00B2A9?&style=for-the-badge&logo=nmap&logoColor=white" />
 </div>
 
 
