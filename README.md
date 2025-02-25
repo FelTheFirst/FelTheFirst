@@ -7,6 +7,7 @@ I’m a senior at WGU pursuing a B.S. in Cybersecurity and Information Assurance
 
 I am seeking a cybersecurity internship where I can apply my education, expand my technical skills, and contribute to protecting digital assets.
 
+## Tools I've Used
 
 ### Network
 <div>
