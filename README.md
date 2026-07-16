@@ -9,18 +9,6 @@ As a student at WGU I was a founding member of our WiCyS Chapter, later I was el
 
 I am a believer in constant growth, and always keeping an eye open for opportunities for professional growth in the Healthcare IT sector. Within Healthcare IT, I am particularity drawn to Cloud / Security work.
 
-## Tools I've Used
-<img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/-UniFi-0559C9?&style=for-the-badge&logo=ubiquiti&logoColor=white" />
-<img src="https://img.shields.io/badge/-Active%20Directory-003366?&style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/-Microsoft%20365-D83B01?&style=for-the-badge&logo=microsoftoffice&logoColor=white" />
-<img src="https://img.shields.io/badge/-KnowBe4-00A4E4?&style=for-the-badge&logo=knowbe4&logoColor=white" />
-<img src="https://img.shields.io/badge/-Command%20Line-4D4D4D?&style=for-the-badge&logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
-
-
-
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-CySA%2B-FF6600?&style=for-the-badge&logo=CompTIA&logoColor=white" />
